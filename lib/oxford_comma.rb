@@ -1,6 +1,6 @@
 def oxford_comma(array)
   string = ""
-  array.length = l
+  l = array.length
   if array.length == 1
     string << array[0]
   elsif array
