@@ -6,7 +6,7 @@ def oxford_comma(array)
   elsif l == 2
     string += array.join(" and ")
   else
-    string += 
+    string += array.slice(0, l-1).join(", ") + array
   end
   string
 end
