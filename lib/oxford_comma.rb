@@ -5,6 +5,8 @@ def oxford_comma(array)
     string << array[0]
   elsif l == 2
     string += array.join(" and ")
+  else
+    
   end
   string
 end
