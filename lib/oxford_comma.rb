@@ -4,4 +4,5 @@ def oxford_comma(array)
     string << array[0]
   else
     while 
+  end
 end
