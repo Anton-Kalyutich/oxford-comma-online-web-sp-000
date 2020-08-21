@@ -3,5 +3,5 @@ def oxford_comma(array)
   if array.length == 1
     string << array[0]
   else
-    
+    while 
 end
