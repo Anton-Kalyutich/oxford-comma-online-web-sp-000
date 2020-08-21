@@ -3,4 +3,6 @@ def oxford_comma(array)
   case array.size
     when 1
       string << array[0]
+    when 2
+      
 end
