@@ -4,5 +4,5 @@ def oxford_comma(array)
     when 1
       string << array[0]
     when > 1
-      
+      string = 
 end
