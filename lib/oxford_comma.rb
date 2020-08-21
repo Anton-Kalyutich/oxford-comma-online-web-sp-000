@@ -5,4 +5,5 @@ def oxford_comma(array)
   else
     while 
   end
+  string
 end
